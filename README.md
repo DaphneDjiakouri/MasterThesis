@@ -1,4 +1,4 @@
-# Educational Tutor and Unvertainty evaluation of the LLM answers 
+# Educational Tutor and Uncertainty evaluation of the LLM answers 
 Welcome to the Educational Tutor and Uncertainty Evaluation repository!
 
 This repository extends my Master’s Thesis on Fundamental Principles of Data Science at the Universitat de Barcelona. It contains all the necessary code for implementing the tasks outlined in the thesis, as well as the resulting datasets (CSV and Excel files).
